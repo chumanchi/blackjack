@@ -4,7 +4,7 @@ package blackjack;
  * Hello world!
  *
  */
-public class App 
+public class BlackJack 
 {
     public static void main( String[] args )
     {
