@@ -11,5 +11,3 @@ To setup programming environment:
 * execute:  'mvn install'
 * execute:  'mvn eclipse:eclipse'
 * import project into eclispe: 'File -> Import… -> General->Existing Projects into Workspace' 
-
-Chris is getting fat.
